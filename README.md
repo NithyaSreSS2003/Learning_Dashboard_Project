@@ -1,7 +1,5 @@
 # Learning_Dashboard_Project
 
-# Learning Dashboard – Technical Decisions
-
 ## 1. Architecture
 
 I chose **MVVM with a Repository pattern** to separate UI, business logic, and data access. Jetpack Compose handles the UI, ViewModels manage UI state using StateFlow, and the Repository coordinates remote and local data sources. This separation improves testability, maintainability, and scalability.
