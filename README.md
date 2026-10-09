@@ -32,11 +32,10 @@ Both platforms would share the same backend APIs and business requirements while
 
 A short demonstration of the Learning Dashboard application, showcasing the login flow, course dashboard, course details, lesson completion, and progress tracking.
 
-**Demo Video:** [Demo video](./demo/
+**Demo Video:** 
 
 https://github.com/user-attachments/assets/26b9f4a8-fcbc-4a29-ae74-978f6f8a1beb
 
-learning-dashboard-demo.mp4)
 
 ### How to Run
 
