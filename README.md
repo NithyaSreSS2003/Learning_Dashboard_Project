@@ -27,3 +27,25 @@ For an application with 1 million users and hundreds of courses, I would:
 I developed this application for Android using Kotlin and Jetpack Compose. For iOS, I would implement the UI using **SwiftUI** and follow an MVVM-style architecture. I would use async/await for asynchronous operations, URLSession for API calls, and Core Data or SwiftData for local persistence. Authentication credentials would be stored securely in the Apple Keychain.
 
 Both platforms would share the same backend APIs and business requirements while using platform-specific UI and storage technologies.
+
+## Demo Video & APK
+
+### Demo Video
+
+A short demonstration of the Learning Dashboard application, showcasing the login flow, course dashboard, course details, lesson completion, and progress tracking.
+
+**Demo Video:** [Demo video](./demo/
+
+https://github.com/user-attachments/assets/26b9f4a8-fcbc-4a29-ae74-978f6f8a1beb
+
+learning-dashboard-demo.mp4)
+
+### How to Run
+
+1. Download the APK using the link above.
+2. Transfer it to an Android device.
+3. Install the APK and open the application.
+4. Explore the dashboard, courses, and lesson progress features.
+
+> Note: This is a debug build intended for evaluation and testing.
+
